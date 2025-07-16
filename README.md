@@ -45,3 +45,7 @@ file_integrity_checker/
 ## ⚠️ Note
 
 This tool is for **local use only**. Do not use on sensitive or remote filesystems.
+
+## Output
+
+<img width="1487" height="980" alt="File integrity" src="https://github.com/user-attachments/assets/d170aa25-b890-409e-8e25-69a145a72640" />
