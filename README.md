@@ -1,16 +1,6 @@
 # 🔍 File Integrity Checker
 
-COMPANY: CODTECH IT SOLUTION
 
-NAME: MOHAMED ABDULLAH R
-
-INTERN ID: CT04DH426
-
-DOMAIN: CYBER SECURITY & ETHICAL HACKING
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
 
 This tool monitors file changes by calculating and comparing SHA-256 hashes.
 
